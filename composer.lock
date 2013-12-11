@@ -534,6 +534,45 @@
             "time": "2013-11-19 06:15:26"
         },
         {
+            "name": "erusev/parsedown",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown.git",
+                "reference": "51a08fad85be42abf1db08f5e646118762a16a2f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/51a08fad85be42abf1db08f5e646118762a16a2f",
+                "reference": "51a08fad85be42abf1db08f5e646118762a16a2f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Parsedown": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "http://erusev.com"
+                }
+            ],
+            "description": "Parser for Markdown.",
+            "homepage": "http://parsedown.org",
+            "keywords": [
+                "markdown",
+                "parser"
+            ],
+            "time": "2013-12-07 15:21:36"
+        },
+        {
             "name": "filp/whoops",
             "version": "1.0.7",
             "source": {
@@ -590,18 +629,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FlatTurtle/SitesCore.git",
-                "reference": "aea66017639d1e8ffe1e56bcb1d1c1e6ff8c73bd"
+                "reference": "2a90e5904f7987b4337d24bb0eca3441ed96e40b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/aea66017639d1e8ffe1e56bcb1d1c1e6ff8c73bd",
-                "reference": "aea66017639d1e8ffe1e56bcb1d1c1e6ff8c73bd",
+                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/2a90e5904f7987b4337d24bb0eca3441ed96e40b",
+                "reference": "2a90e5904f7987b4337d24bb0eca3441ed96e40b",
                 "shasum": ""
             },
             "require": {
+                "erusev/parsedown": "dev-master",
                 "guzzle/http": "3.7.*@dev",
-                "jenssegers/model": "dev-master",
-                "kzykhys/ciconia": "dev-master"
+                "jenssegers/model": "dev-master"
             },
             "type": "library",
             "autoload": {
@@ -625,7 +664,7 @@
                 "source": "https://github.com/FlatTurtle/SitesCore/tree/master",
                 "issues": "https://github.com/FlatTurtle/SitesCore/issues"
             },
-            "time": "2013-12-11 09:56:00"
+            "time": "2013-12-11 18:41:20"
         },
         {
             "name": "guzzle/common",
@@ -953,61 +992,6 @@
                 "tokenizer"
             ],
             "time": "2013-10-09 04:20:00"
-        },
-        {
-            "name": "kzykhys/ciconia",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/kzykhys/Ciconia.git",
-                "reference": "615dddb5d9387e1f9478830cefbd374eeee226fc"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/kzykhys/Ciconia/zipball/615dddb5d9387e1f9478830cefbd374eeee226fc",
-                "reference": "615dddb5d9387e1f9478830cefbd374eeee226fc",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">5.4.0",
-                "symfony/console": "~2.3",
-                "symfony/options-resolver": "~2.3"
-            },
-            "require-dev": {
-                "symfony/finder": "~2.3",
-                "symfony/stopwatch": "~2.3"
-            },
-            "bin": [
-                "bin/ciconia"
-            ],
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.1.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-0": {
-                    "": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Kazuyuki Hayashi",
-                    "email": "hayashi@valnur.net"
-                }
-            ],
-            "description": "The Markdown parser for PHP5.4",
-            "keywords": [
-                "cli",
-                "markdown",
-                "parser"
-            ],
-            "time": "2013-12-11 11:11:48"
         },
         {
             "name": "laravel/framework",
@@ -2006,58 +1990,6 @@
             "description": "Symfony HttpKernel Component",
             "homepage": "http://symfony.com",
             "time": "2013-12-05 07:46:04"
-        },
-        {
-            "name": "symfony/options-resolver",
-            "version": "dev-master",
-            "target-dir": "Symfony/Component/OptionsResolver",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/OptionsResolver.git",
-                "reference": "6f6554d4fd3cb0f39300473829b10390ae83e970"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/OptionsResolver/zipball/6f6554d4fd3cb0f39300473829b10390ae83e970",
-                "reference": "6f6554d4fd3cb0f39300473829b10390ae83e970",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.3"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "2.5-dev"
-                }
-            },
-            "autoload": {
-                "psr-0": {
-                    "Symfony\\Component\\OptionsResolver\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
-                },
-                {
-                    "name": "Symfony Community",
-                    "homepage": "http://symfony.com/contributors"
-                }
-            ],
-            "description": "Symfony OptionsResolver Component",
-            "homepage": "http://symfony.com",
-            "keywords": [
-                "config",
-                "configuration",
-                "options"
-            ],
-            "time": "2013-11-24 20:17:07"
         },
         {
             "name": "symfony/process",
