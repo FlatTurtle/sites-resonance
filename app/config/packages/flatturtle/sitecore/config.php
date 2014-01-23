@@ -22,7 +22,7 @@ return array(
 	|
 	*/
 
-	'template' => 'sitecore::template',
+	'template' => 'template',
 
 
 	/*
@@ -76,7 +76,7 @@ return array(
 	|
 	*/
 
-	'analytics' => null,
+	'analytics' => 'UA-31282630-5',
 
 
 	/*
