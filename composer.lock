@@ -92,12 +92,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown.git",
-                "reference": "618ab4e1564b2da59375196448d413fd5c279011"
+                "reference": "72f4a375efce04429528621249030b46a2d2122f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown/zipball/618ab4e1564b2da59375196448d413fd5c279011",
-                "reference": "618ab4e1564b2da59375196448d413fd5c279011",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/72f4a375efce04429528621249030b46a2d2122f",
+                "reference": "72f4a375efce04429528621249030b46a2d2122f",
                 "shasum": ""
             },
             "type": "library",
@@ -123,7 +123,7 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2014-01-26 17:53:24"
+            "time": "2014-01-29 23:16:00"
         },
         {
             "name": "filp/whoops",
@@ -225,12 +225,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "028195b32bb2e096b168baebe07c704473db81d4"
+                "reference": "dce090bdeeea701bb95f68f2ea66b4e532c68207"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/028195b32bb2e096b168baebe07c704473db81d4",
-                "reference": "028195b32bb2e096b168baebe07c704473db81d4",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/dce090bdeeea701bb95f68f2ea66b4e532c68207",
+                "reference": "dce090bdeeea701bb95f68f2ea66b4e532c68207",
                 "shasum": ""
             },
             "require": {
@@ -309,7 +309,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2014-01-23 18:29:07"
+            "time": "2014-01-29 18:20:08"
         },
         {
             "name": "ircmaxell/password-compat",
@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "ca996fa813bd3fe8e2953ac743978f7d601f2cbb"
+                "reference": "1fa82fae0f47b3c112c5d62fa331f89177447eac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/ca996fa813bd3fe8e2953ac743978f7d601f2cbb",
-                "reference": "ca996fa813bd3fe8e2953ac743978f7d601f2cbb",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/1fa82fae0f47b3c112c5d62fa331f89177447eac",
+                "reference": "1fa82fae0f47b3c112c5d62fa331f89177447eac",
                 "shasum": ""
             },
             "require": {
@@ -555,7 +555,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-01-28 20:12:54"
+            "time": "2014-01-29 22:12:16"
         },
         {
             "name": "monolog/monolog",
