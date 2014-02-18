@@ -182,12 +182,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FlatTurtle/SitesCore.git",
-                "reference": "66de41db57727461d05001bc4083c17f56341750"
+                "reference": "5526b0f2f2df30825f77cc12d68f1d89218b2857"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/66de41db57727461d05001bc4083c17f56341750",
-                "reference": "66de41db57727461d05001bc4083c17f56341750",
+                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/5526b0f2f2df30825f77cc12d68f1d89218b2857",
+                "reference": "5526b0f2f2df30825f77cc12d68f1d89218b2857",
                 "shasum": ""
             },
             "require": {
@@ -217,7 +217,7 @@
                 "source": "https://github.com/FlatTurtle/SitesCore/tree/master",
                 "issues": "https://github.com/FlatTurtle/SitesCore/issues"
             },
-            "time": "2014-02-18 10:06:54"
+            "time": "2014-02-18 10:35:21"
         },
         {
             "name": "guzzle/guzzle",
@@ -672,16 +672,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "0.9.x-dev",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "118f28344daf154e47e73e79779a60bc7430a40f"
+                "reference": "0353c921bd12980399e3e6404ea3931b3356e15a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/118f28344daf154e47e73e79779a60bc7430a40f",
-                "reference": "118f28344daf154e47e73e79779a60bc7430a40f",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/0353c921bd12980399e3e6404ea3931b3356e15a",
+                "reference": "0353c921bd12980399e3e6404ea3931b3356e15a",
                 "shasum": ""
             },
             "require": {
@@ -713,7 +713,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2014-02-12 19:19:48"
+            "time": "2013-11-27 19:33:56"
         },
         {
             "name": "patchwork/utf8",
