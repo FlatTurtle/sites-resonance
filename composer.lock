@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "3a20d62deb10c0f52857004b701488a86484bde5"
+                "reference": "1faf4c8508378b0b102d148c53c322a8048b16dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/3a20d62deb10c0f52857004b701488a86484bde5",
-                "reference": "3a20d62deb10c0f52857004b701488a86484bde5",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/1faf4c8508378b0b102d148c53c322a8048b16dd",
+                "reference": "1faf4c8508378b0b102d148c53c322a8048b16dd",
                 "shasum": ""
             },
             "require": {
@@ -555,7 +555,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-02-17 03:11:14"
+            "time": "2014-02-18 17:05:05"
         },
         {
             "name": "monolog/monolog",
@@ -1608,12 +1608,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Process.git",
-                "reference": "c175448bac997556f8ab972908a4e14c7291fb03"
+                "reference": "bfa6a176e9c680cf87bbd65096826ef000c46f51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Process/zipball/c175448bac997556f8ab972908a4e14c7291fb03",
-                "reference": "c175448bac997556f8ab972908a4e14c7291fb03",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/bfa6a176e9c680cf87bbd65096826ef000c46f51",
+                "reference": "bfa6a176e9c680cf87bbd65096826ef000c46f51",
                 "shasum": ""
             },
             "require": {
@@ -1648,7 +1648,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "http://symfony.com",
-            "time": "2014-02-11 13:52:09"
+            "time": "2014-02-18 16:29:54"
         },
         {
             "name": "symfony/routing",
