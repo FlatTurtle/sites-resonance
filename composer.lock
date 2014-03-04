@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "af8bcdb6ce1969983b03413a7612a524e5dfad51"
+                "reference": "f857ae31da8ff0ab0ff218252d9ce009b78c1c6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/af8bcdb6ce1969983b03413a7612a524e5dfad51",
-                "reference": "af8bcdb6ce1969983b03413a7612a524e5dfad51",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/f857ae31da8ff0ab0ff218252d9ce009b78c1c6c",
+                "reference": "f857ae31da8ff0ab0ff218252d9ce009b78c1c6c",
                 "shasum": ""
             },
             "require": {
@@ -555,7 +555,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-03-02 19:30:23"
+            "time": "2014-03-04 02:06:48"
         },
         {
             "name": "monolog/monolog",
@@ -1277,12 +1277,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/DomCrawler.git",
-                "reference": "e82baa333252166ab411240e6bd898023d7568ba"
+                "reference": "4bebef4fd60f15e3fc58f684550beae1f9162f30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/e82baa333252166ab411240e6bd898023d7568ba",
-                "reference": "e82baa333252166ab411240e6bd898023d7568ba",
+                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/4bebef4fd60f15e3fc58f684550beae1f9162f30",
+                "reference": "4bebef4fd60f15e3fc58f684550beae1f9162f30",
                 "shasum": ""
             },
             "require": {
@@ -1323,7 +1323,7 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "http://symfony.com",
-            "time": "2014-02-18 16:29:54"
+            "time": "2014-03-01 17:35:04"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1486,12 +1486,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpFoundation.git",
-                "reference": "cdee7c84ba8b2a8aafa1c055f5cb4f640d81c129"
+                "reference": "5f8d64ef66f69586cc1f1ab510110db3cbd2a1ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/HttpFoundation/zipball/cdee7c84ba8b2a8aafa1c055f5cb4f640d81c129",
-                "reference": "cdee7c84ba8b2a8aafa1c055f5cb4f640d81c129",
+                "url": "https://api.github.com/repos/symfony/HttpFoundation/zipball/5f8d64ef66f69586cc1f1ab510110db3cbd2a1ce",
+                "reference": "5f8d64ef66f69586cc1f1ab510110db3cbd2a1ce",
                 "shasum": ""
             },
             "require": {
@@ -1529,7 +1529,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "http://symfony.com",
-            "time": "2014-02-11 15:39:28"
+            "time": "2014-03-03 17:30:41"
         },
         {
             "name": "symfony/http-kernel",
@@ -1538,12 +1538,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpKernel.git",
-                "reference": "a46e71fa4dab095f1e8dd7da044cfc5f1ff24d2f"
+                "reference": "c9830b904493157c951e6126aebd89986bc591d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/HttpKernel/zipball/a46e71fa4dab095f1e8dd7da044cfc5f1ff24d2f",
-                "reference": "a46e71fa4dab095f1e8dd7da044cfc5f1ff24d2f",
+                "url": "https://api.github.com/repos/symfony/HttpKernel/zipball/c9830b904493157c951e6126aebd89986bc591d0",
+                "reference": "c9830b904493157c951e6126aebd89986bc591d0",
                 "shasum": ""
             },
             "require": {
@@ -1602,7 +1602,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "http://symfony.com",
-            "time": "2014-02-28 14:10:50"
+            "time": "2014-03-04 07:36:00"
         },
         {
             "name": "symfony/process",
