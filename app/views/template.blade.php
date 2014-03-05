@@ -42,7 +42,8 @@
     <section id="social" class="block colorful">
         <div class="container">
             <div id="copyright">
-                Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.be">rentalVALUE</a> and <a href="http://flatturtle.fr" target="_blank">FlatTurtle</a>. Some rights reserved. Images by <a href="http://www.artefactorylab.com/" target="_blank">ArtefactoryLab</a>. Document non contractuel.
+                Document non contractuel. <br />
+                Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.eu">rentalVALUE</a>. Images by <a href="http://www.artefactorylab.com/" target="_blank">ArtefactoryLab</a>. Live transport data <a href="http://flatturtle.fr" target="_blank">FlatTurtle</a> & <a href="http://www.canaltp.fr/" target="_blank">CanalTP</a>.
             </div>
         </div>
     </section>
