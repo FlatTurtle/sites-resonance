@@ -86,6 +86,7 @@ return array(
 	*/
 
 	'social' => array(
+		'heart'		=>		'http://resonanceparis.tumblr.com',
 	),
 
 );

@@ -43,7 +43,7 @@
         <div class="container">
             <div id="copyright">
                 Document non contractuel. <br />
-                Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.eu">rentalVALUE</a>. Images by <a href="http://www.artefactorylab.com/" target="_blank">ArtefactoryLab</a>. Live transport data <a href="http://flatturtle.fr" target="_blank">FlatTurtle</a> & <a href="http://navitia.io/" target="_blank">navitia.io</a>.
+                Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.eu">rentalVALUE</a>. Images by <a href="http://www.artefactorylab.com/" target="_blank">ArtefactoryLab</a>. Live transport data <a href="http://flatturtle.com" target="_blank">FlatTurtle</a> & <a href="http://navitia.io/" target="_blank">navitia.io</a>.
             </div>
         </div>
     </section>
