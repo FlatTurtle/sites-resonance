@@ -1,8 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
-        "This file is @generated automatically"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
     "hash": "2c505160462c6f808e893290b9d64e42",
     "packages": [
@@ -183,12 +182,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FlatTurtle/SitesCore.git",
-                "reference": "204b8bbb71248f2272b04aa80ab7c67035ec14b8"
+                "reference": "660b9fa859aee6ec88e6b5d6b9623820f161ab2a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/204b8bbb71248f2272b04aa80ab7c67035ec14b8",
-                "reference": "204b8bbb71248f2272b04aa80ab7c67035ec14b8",
+                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/660b9fa859aee6ec88e6b5d6b9623820f161ab2a",
+                "reference": "660b9fa859aee6ec88e6b5d6b9623820f161ab2a",
                 "shasum": ""
             },
             "require": {
@@ -199,6 +198,7 @@
             "type": "library",
             "autoload": {
                 "classmap": [
+                    "src/controllers",
                     "src/models",
                     "src/commands",
                     "src/libraries"
@@ -218,7 +218,7 @@
                 "source": "https://github.com/FlatTurtle/SitesCore/tree/master",
                 "issues": "https://github.com/FlatTurtle/SitesCore/issues"
             },
-            "time": "2014-06-01 23:30:56"
+            "time": "2014-06-11 14:02:27"
         },
         {
             "name": "guzzle/guzzle",
