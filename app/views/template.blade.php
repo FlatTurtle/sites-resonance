@@ -42,7 +42,7 @@
     <section id="social" class="block colorful">
         <div class="container">
             <div id="copyright">
-                Document non contractuel. <br />
+                <a href="http://resonanceparis.tumblr.com/">Blog Resonance</a> - Document non contractuel. <br />
                 Copyright &copy; {{ date('Y') }} <a href="http://rentalvalue.eu">rentalVALUE</a>. Images by <a href="http://www.artefactorylab.com/" target="_blank">ArtefactoryLab</a>. Live transport data <a href="http://flatturtle.com" target="_blank">FlatTurtle</a> & <a href="http://navitia.io/" target="_blank">navitia.io</a>.
             </div>
         </div>
